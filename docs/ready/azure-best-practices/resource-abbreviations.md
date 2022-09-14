@@ -165,6 +165,7 @@ This list provides recommended abbreviations for various Azure resource types to
 | Provisioning services | `Microsoft.Devices/provisioningServices` | `provs-` |
 | Provisioning services certificate | `Microsoft.Devices/provisioningServices/certificates` | `pcert-` |
 | Power BI Embedded | `Microsoft.PowerBIDedicated/capacities` | `pbi-` |
+| Power Platform | `Microsoft.PowerPlatform/accounts` | `pp-` |
 | Time Series Insights environment | `Microsoft.TimeSeriesInsights/environments` | `tsi-` |
 
 ## Azure Virtual Desktop
